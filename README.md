@@ -12,8 +12,8 @@
  7. Checks if there is NFC on your device and is it disable or enable<br/>
  Please note that Android Studio doesn't support NFC on virtual devices<br/>
  8. Opens Network&Internet options where user is able to enable NFC, there is no possibility to enable NFC in other way on no rooted device <br/>
- 9. <br/>
- 10.<br/>
+ 9.  Opens my university website in web browser <br/>
+ 10. Opens youtube application<br/>
 
  
  
