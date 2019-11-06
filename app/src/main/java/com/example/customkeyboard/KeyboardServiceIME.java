@@ -24,7 +24,7 @@ public class KeyboardServiceIME extends InputMethodService implements KeyboardVi
     private static  final String FILE_NAME="plik.txt";
 
 
-    private void dispatchTakePictureIntent() {
+    private void camera() {
         Intent takePictureIntent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         takePictureIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             startActivity(takePictureIntent);
@@ -115,7 +115,7 @@ finally {
 
         //5
         if (primaryCode == 53) {
-            dispatchTakePictureIntent();
+            camera();
         }
         //6
         if (primaryCode == 54) {
