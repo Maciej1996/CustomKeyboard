@@ -9,7 +9,8 @@ Maciej Kobyliński
  4. saves.txt file with "I'm Custom Keyboard" text on your device, file loacation will be displayed in toast notification<br/>
  5. Opens camera<br/>
  6. Changes input view to simple letter keyboard(currently without any functions), back button will change input view back again<br/>
- 7.<br/>
+ 7. Checks if there is NFC on your device and is it disable or enable<br/>
+ Please note that Android Studio doesn't support NFC on virtual devices<br/>
  8.<br/>
  9. <br/>
  10.<br/>
